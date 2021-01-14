@@ -5,6 +5,7 @@ Education: BBA Finance University of Texas 18'
 
 <img src="ATBW.jpg" height="200" width="155">
 
+```markdown
 ProjectName
 Description:
 Link:
@@ -37,10 +38,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alext1109/Alext1109.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-###  Contact
+##  Contact
 Email: alext2114@gmail.com
 
