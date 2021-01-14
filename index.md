@@ -1,7 +1,7 @@
 ## Info
 
-![GitHub Logo](C:\Users\1125072\Desktop\AT_BW.png)
-Format: ![Alt Text](url)
+![image](ATBW.jpg)
+
 
 ### Links to projects
 
