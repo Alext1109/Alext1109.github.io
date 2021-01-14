@@ -1,3 +1,8 @@
+Alex Trevino | Automation Analyst IHeartMedia
+
+Education: BBA Finance University of Texas 18'
+
+<img src="ATBW.jpg" height="200" width="155">
 
 -ProjectName
 Description:
