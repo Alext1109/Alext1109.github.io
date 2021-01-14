@@ -6,7 +6,6 @@
 
 <img src="ATBW.jpg" height="200" width="155">
 
-```markdown
 ProjectName
 Description:
 Link:
