@@ -1,22 +1,21 @@
-Alex Trevino | Automation Analyst IHeartMedia
+## Alex Trevino | 
 
+Automation Analyst IHeartMedia
 Education: BBA Finance University of Texas 18'
 
 <img src="ATBW.jpg" height="200" width="155">
 
--ProjectName
+ProjectName
 Description:
 Link:
 
--ProjectName
+ProjectName
 Description:
 Link:
 
--ProjectName
+ProjectName
 Description:
 Link:
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
