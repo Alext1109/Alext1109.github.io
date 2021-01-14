@@ -1,4 +1,4 @@
-## What are the things that we are able to change on this pagE?
+## I guess it just takes a second or two to update on the server?
 
 
 
