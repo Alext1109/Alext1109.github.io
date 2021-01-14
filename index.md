@@ -1,8 +1,21 @@
-## I guess it just takes a second or two to update on the server?
+## Info
 
+![GitHub Logo](C:\Users\1125072\Desktop\AT_BW.png)
+Format: ![Alt Text](url)
 
+### Links to projects
 
-### Changing files
+-ProjectName
+Description:
+Link:
+
+-ProjectName
+Description:
+Link:
+
+-ProjectName
+Description:
+Link:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,5 +44,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alext1109/Alext1109.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ###  Contact
-Email:
+Email: alext2114@gmail.com
 
