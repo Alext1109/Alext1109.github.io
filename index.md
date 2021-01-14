@@ -1,10 +1,3 @@
-## Info
-
- 
-<a href="ATBW.jpg">
-<img border="0" alt="Alex Trevino" src="https://github.com/Alext1109" width="100" height="100">
- 
-### Links to projects
 
 -ProjectName
 Description:
